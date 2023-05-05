@@ -1,5 +1,5 @@
 var productKey = 'wheel';
-var locale = '';
+var locale = 'default';
 var target = document.getElementById("myCanvas");
 
 var context = window.twikit.createContext(productKey, locale, target , {
